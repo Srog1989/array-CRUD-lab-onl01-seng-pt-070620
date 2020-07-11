@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array= ["pink", "purple", "green", "orange", "arrays!"]
-  remove_element_from_end_of_array#shift ("arrays!")
+  remove_element_from_end_of_array#shift {arrays!}
   
 end
 
