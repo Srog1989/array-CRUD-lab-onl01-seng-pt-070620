@@ -29,10 +29,11 @@ end
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index= ["pink", "am", "green", "orange"]
   retrieve_element_from_index[1]
-  
 end
 
 def retrieve_first_element_from_array(array)
+  retrieve_last_element_from_array= ["pink", "purple", "green", "orange"]
+  retrieve_first_element_from_array[1]
   
 end
 
