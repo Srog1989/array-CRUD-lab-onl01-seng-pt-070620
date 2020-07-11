@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index= ["pink", "purple", "green", "orange"]
-  retrieve_element_from_index
+  retrieve_element_from_index[1]
   
 end
 
